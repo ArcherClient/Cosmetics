@@ -2,12 +2,12 @@
    "uuid":"a1ce5161-b551-44ae-84c3-64e44d161a74", 
    "username":null,  
    "cosmetics":{  
-      "Flame":{  
-         "name":"Flame",  
+      "flame":{  
+         "name":"flame",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"Flame"  
+         "resourceLocation":"flame"  
       }  
    }  
 }  
