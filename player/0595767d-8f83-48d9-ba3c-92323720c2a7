@@ -32,7 +32,13 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"2016"  
-     }  
-     
+  },  
+      "flame":{  
+         "name":"flame",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"flame"  
+   }   
    }  
 }  
