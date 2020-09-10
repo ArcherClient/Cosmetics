@@ -2,12 +2,12 @@
    "uuid":"a1ce5161-b551-44ae-84c3-64e44d161a74", 
    "username":null,  
    "cosmetics":{  
-      "flame":{  
-         "name":"flame",  
+      "beta_cape":{  
+         "name":"beta_cape",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"flame"  
+         "resourceLocation":"beta_cape"  
       }  
    }  
 }  
