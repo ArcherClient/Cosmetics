@@ -2,19 +2,12 @@
    "uuid":"e1b53930-3545-47d9-b715-a131bc601201", 
    "username":null,  
    "cosmetics":{  
-      "indigo":{  
-         "name":"indigo",  
+      "black":{  
+         "name":"black",  
          "type":"dragon_wings",  
-         "scale":0.16,  
+         "scale":0.13,  
          "active":true,  
-         "resourceLocation":"indigo"  
-},  
-      "lunarstars":{  
-         "name":"lunarstars",  
-         "type":"cape",  
-         "scale":0.16,  
-         "active":true,  
-         "resourceLocation":"lunarstars"  
+         "resourceLocation":"black"  
       }  
    }  
 }  

@@ -5,7 +5,7 @@
       "red":{  
          "name":"red",  
          "type":"dragon_wings",  
-         "scale":0.13,  
+         "scale":0.14,  
          "active":true,  
          "resourceLocation":"red"  
 },  
@@ -15,6 +15,13 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"lunarflame"  
+},  
+      "BlackJesus_Member":{  
+         "name":"BlackJesus_Member",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"BlackJesus_Member"  
       }  
    }  
 }  
