@@ -1,0 +1,14 @@
+  
+ {  
+   "uuid":"f72d3eb6-3030-40cc-b769-b2f2a8b3cd3b", 
+   "username":null,  
+   "cosmetics":{  
+      "beta_cape":{  
+         "name":"beta_cape",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"beta_cape"  
+      }  
+   }  
+}  
